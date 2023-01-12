@@ -1,2 +1,1 @@
-# static-website-resume
-# Oma ansioluetteloni
+Oma ansioluetteloni
